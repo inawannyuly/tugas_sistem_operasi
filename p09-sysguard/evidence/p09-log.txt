@@ -1,0 +1,6 @@
+Fri Oct 16 09:17:56 PM UTC 2026
+so26-2510501005
+Hasil: 35
+exit=0
+Error: Butuh 2 parameter
+exit=1

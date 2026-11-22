@@ -1,0 +1,4 @@
+=== JAWABAN ANALISIS UTS ===
+1. Service berhenti (inactive): dihentikan secara normal. Service gagal (failed): crash/error. Unit tidak ditemukan (not-found): file .service belum ada .
+2. Sebelum perbaikan, periksa status service (systemctl status) dan cek log error sistem (journalctl -u) untuk diagnosis masalah.
+3. Menghentikan/restart SSH memutus sesi koneksi terminal secara mendadak sehingga akses ke server terputus dan ujian gagal.

@@ -1,0 +1,5 @@
+INFO service started
+WARNING storage usage reached 75 percent
+ERROR connection timeout
+INFO retry completed
+ERROR backup destination unavailable

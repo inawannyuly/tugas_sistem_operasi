@@ -1,0 +1,8 @@
+=== DAFTAR ISI ARCHIVE ===
+drwxrwxr-x wannyuly/wannyuly 0 2026-10-05 08:04 input/
+-rw-rw-r-- wannyuly/wannyuly 145 2026-10-05 08:04 input/server.log
+drwxrwxr-x wannyuly/wannyuly   0 2026-10-05 08:06 work/
+-rw-r----- wannyuly/uts-audit-2510501005 145 2026-10-05 08:06 work/server.log
+
+=== CHECKSUM SHHA-256 ===
+d5fd2263ca4648cb04bac22ec70e979a8ff07484c1e4dab640cf2c6f924330da  backup/sysguard-uts-2510501005.tar.gz
